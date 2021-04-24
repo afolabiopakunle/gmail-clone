@@ -1,0 +1,33 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .example-form-field {
+    width: 700px;
+  }
+
+  .example-menu-icon {
+    background-color: #e9e9e9;
+  }
+
+  mat-toolbar {
+    background-color: white;
+  }
+
+  .example-container {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .example-sidenav-content {
+    display: flex;
+    height: 100%;
+  }
+  
+  .example-sidenav {
+    padding: 20px;
+  }
+
+  mat-sidenav {
+    width: 400px;
+  }

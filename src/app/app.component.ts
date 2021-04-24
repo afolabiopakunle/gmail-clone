@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'gmail-clone';
+  value = ""
+  sideBar = false
+  showFiller = false;
+  clickTest() {
+    this.sideBar = !this.sideBar;
+  }
+
+  
 }
